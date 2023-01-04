@@ -43,5 +43,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'rspec', '~> 3.0'
   spec.add_development_dependency 'rubocop', '~> 0.71.0'
   spec.add_dependency 'hexapdf', '~> 0.27.0'
-  spec.add_dependency 'pdf-reader', '~> 2.2.0'
+  spec.add_dependency 'pdf-reader', '~> 2.6.0'
 end
